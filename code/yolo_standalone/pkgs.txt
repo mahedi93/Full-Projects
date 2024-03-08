@@ -1,0 +1,307 @@
+
+### New exes at vevn folder:
+
+```sh
+Krishnakumar.Mayanna@IFMNB09 MINGW64 /c/prj/pyenv/pyenv_3_11_3/Scripts
+$ ll -t
+total 2397
+-rwxr-xr-x 1 Krishnakumar.Mayanna 1049089 108408 Dec  1 16:34 yolo.exe*
+-rwxr-xr-x 1 Krishnakumar.Mayanna 1049089 108408 Dec  1 16:34 ultralytics.exe*
+-rwxr-xr-x 1 Krishnakumar.Mayanna 1049089 108389 Dec  1 16:33 tqdm.exe*
+-rwxr-xr-x 1 Krishnakumar.Mayanna 1049089 108394 Dec  1 16:33 ttx.exe*
+-rwxr-xr-x 1 Krishnakumar.Mayanna 1049089 108397 Dec  1 16:33 pyftsubset.exe*
+-rwxr-xr-x 1 Krishnakumar.Mayanna 1049089 108396 Dec  1 16:33 pyftmerge.exe*
+-rwxr-xr-x 1 Krishnakumar.Mayanna 1049089 108399 Dec  1 16:33 fonttools.exe*
+-rwxr-xr-x 1 Krishnakumar.Mayanna 1049089 108388 Dec  1 16:32 cpuinfo.exe*
+-rwxr-xr-x 1 Krishnakumar.Mayanna 1049089 108402 Dec  1 16:30 torchrun.exe*
+-rwxr-xr-x 1 Krishnakumar.Mayanna 1049089 108434 Dec  1 16:30 convert-onnx-to-caffe2.exe*
+-rwxr-xr-x 1 Krishnakumar.Mayanna 1049089 108434 Dec  1 16:30 convert-caffe2-to-onnx.exe*
+-rwxr-xr-x 1 Krishnakumar.Mayanna 1049089 108415 Dec  1 16:27 normalizer.exe*
+-rwxr-xr-x 1 Krishnakumar.Mayanna 1049089 108398 Dec  1 16:26 f2py.exe*
+-rwxr-xr-x 1 Krishnakumar.Mayanna 1049089 108387 Dec  1 16:25 isympy.exe*
+-rwxr-xr-x 1 Krishnakumar.Mayanna 1049089 108403 Oct 25 09:31 pip3.11.exe*
+-rwxr-xr-x 1 Krishnakumar.Mayanna 1049089 108403 Oct 25 09:31 pip3.exe*
+-rwxr-xr-x 1 Krishnakumar.Mayanna 1049089 108403 Oct 25 09:31 pip.exe*
+-rw-r--r-- 1 Krishnakumar.Mayanna 1049089    393 Oct 25 09:23 deactivate.bat
+-rw-r--r-- 1 Krishnakumar.Mayanna 1049089   1010 Oct 25 09:23 activate.bat
+-rw-r--r-- 1 Krishnakumar.Mayanna 1049089  26195 Oct 25 09:23 Activate.ps1
+-rw-r--r-- 1 Krishnakumar.Mayanna 1049089   2081 Oct 25 09:23 activate
+-rwxr-xr-x 1 Krishnakumar.Mayanna 1049089 270616 Oct 25 09:22 python.exe*
+-rwxr-xr-x 1 Krishnakumar.Mayanna 1049089 259344 Oct 25 09:22 pythonw.exe*
+```
+
+(pyenv_3_11_3) Krishnakumar.Mayanna  prj  ♥ 16:33  pip3 list
+Package            Version
+------------------ --------------------
+certifi            2023.11.17
+charset-normalizer 3.3.2
+colorama           0.4.6
+contourpy          1.2.0
+cycler             0.12.1
+filelock           3.13.1
+fonttools          4.45.1
+fsspec             2023.10.0
+idna               3.6
+Jinja2             3.1.2
+kiwisolver         1.4.5
+MarkupSafe         2.1.3
+matplotlib         3.8.2
+mpmath             1.3.0
+networkx           3.2.1
+numpy              1.26.2
+opencv-python      4.8.1.78
+packaging          23.2
+pandas             2.1.3
+Pillow             10.1.0
+pip                23.3.1
+psutil             5.9.6
+py-cpuinfo         9.0.0
+pyparsing          3.1.1
+python-dateutil    2.8.2
+pytz               2023.3.post1
+PyYAML             6.0.1
+requests           2.31.0
+scipy              1.11.4
+seaborn            0.13.0
+setuptools         65.5.0
+six                1.16.0
+sympy              1.12
+thop               0.1.1.post2209072238
+torch              2.1.1
+torchaudio         2.1.1
+torchvision        0.16.1
+tqdm               4.66.1
+typing_extensions  4.8.0
+tzdata             2023.3
+ultralytics        8.0.221
+urllib3            2.1.0
+(pyenv_3_11_3) Krishnakumar.Mayanna  prj  ♥ 16:34 
+(pyenv_3_11_3) Krishnakumar.Mayanna  prj  ♥ 16:33  pip3 list
+Package            Version
+------------------ --------------------
+certifi            2023.11.17
+charset-normalizer 3.3.2
+colorama           0.4.6
+contourpy          1.2.0
+cycler             0.12.1
+filelock           3.13.1
+fonttools          4.45.1
+fsspec             2023.10.0
+idna               3.6
+Jinja2             3.1.2
+kiwisolver         1.4.5
+MarkupSafe         2.1.3
+mpmath             1.3.0
+networkx           3.2.1
+numpy              1.26.2
+opencv-python      4.8.1.78
+packaging          23.2
+Pillow             10.1.0
+pip                23.3.1
+psutil             5.9.6
+py-cpuinfo         9.0.0
+pyparsing          3.1.1
+python-dateutil    2.8.2
+pytz               2023.3.post1
+PyYAML             6.0.1
+requests           2.31.0
+scipy              1.11.4
+setuptools         65.5.0
+six                1.16.0
+sympy              1.12
+thop               0.1.1.post2209072238
+torch              2.1.1
+torchaudio         2.1.1
+torchvision        0.16.1
+tqdm               4.66.1
+typing_extensions  4.8.0
+tzdata             2023.3
+urllib3            2.1.0
+(pyenv_3_11_3) Krishnakumar.Mayanna  prj  ♥ 16:33 
+## install log
+(pyenv_3_11_3) Krishnakumar.Mayanna  signdetect  ♥ 16:24  pip3 install torch torchvision torchaudio
+Collecting torch
+  Downloading torch-2.1.1-cp311-cp311-win_amd64.whl.metadata (26 kB)
+Collecting torchvision
+  Downloading torchvision-0.16.1-cp311-cp311-win_amd64.whl.metadata (6.6 kB)
+Collecting torchaudio
+  Downloading torchaudio-2.1.1-cp311-cp311-win_amd64.whl.metadata (6.4 kB)
+Collecting filelock (from torch)
+  Downloading filelock-3.13.1-py3-none-any.whl.metadata (2.8 kB)
+Collecting typing-extensions (from torch)
+  Downloading typing_extensions-4.8.0-py3-none-any.whl.metadata (3.0 kB)
+Collecting sympy (from torch)
+  Downloading sympy-1.12-py3-none-any.whl (5.7 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 5.7/5.7 MB 6.4 MB/s eta 0:00:00
+Collecting networkx (from torch)
+  Downloading networkx-3.2.1-py3-none-any.whl.metadata (5.2 kB)
+Collecting jinja2 (from torch)
+  Downloading Jinja2-3.1.2-py3-none-any.whl (133 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 133.1/133.1 kB 982.9 kB/s eta 0:00:00
+Collecting fsspec (from torch)
+  Downloading fsspec-2023.10.0-py3-none-any.whl.metadata (6.8 kB)
+Collecting numpy (from torchvision)
+  Downloading numpy-1.26.2-cp311-cp311-win_amd64.whl.metadata (61 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 61.2/61.2 kB 1.1 MB/s eta 0:00:00
+Collecting requests (from torchvision)
+  Downloading requests-2.31.0-py3-none-any.whl.metadata (4.6 kB)
+Collecting pillow!=8.3.*,>=5.3.0 (from torchvision)
+  Downloading Pillow-10.1.0-cp311-cp311-win_amd64.whl.metadata (9.6 kB)
+Collecting MarkupSafe>=2.0 (from jinja2->torch)
+  Downloading MarkupSafe-2.1.3-cp311-cp311-win_amd64.whl.metadata (3.1 kB)
+Collecting charset-normalizer<4,>=2 (from requests->torchvision)
+  Downloading charset_normalizer-3.3.2-cp311-cp311-win_amd64.whl.metadata (34 kB)
+Collecting idna<4,>=2.5 (from requests->torchvision)
+  Downloading idna-3.6-py3-none-any.whl.metadata (9.9 kB)
+Collecting urllib3<3,>=1.21.1 (from requests->torchvision)
+  Downloading urllib3-2.1.0-py3-none-any.whl.metadata (6.4 kB)
+Collecting certifi>=2017.4.17 (from requests->torchvision)
+  Downloading certifi-2023.11.17-py3-none-any.whl.metadata (2.2 kB)
+Collecting mpmath>=0.19 (from sympy->torch)
+  Downloading mpmath-1.3.0-py3-none-any.whl (536 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 536.2/536.2 kB 209.1 kB/s eta 0:00:00
+Downloading torch-2.1.1-cp311-cp311-win_amd64.whl (192.3 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 192.3/192.3 MB 7.2 MB/s eta 0:00:00
+Downloading torchvision-0.16.1-cp311-cp311-win_amd64.whl (1.1 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.1/1.1 MB 759.9 kB/s eta 0:00:00
+Downloading torchaudio-2.1.1-cp311-cp311-win_amd64.whl (2.3 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2.3/2.3 MB 2.9 MB/s eta 0:00:00
+Downloading Pillow-10.1.0-cp311-cp311-win_amd64.whl (2.6 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2.6/2.6 MB 3.4 MB/s eta 0:00:00
+Downloading filelock-3.13.1-py3-none-any.whl (11 kB)
+Downloading fsspec-2023.10.0-py3-none-any.whl (166 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 166.4/166.4 kB 97.0 kB/s eta 0:00:00
+Downloading networkx-3.2.1-py3-none-any.whl (1.6 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.6/1.6 MB 1.3 MB/s eta 0:00:00
+Downloading numpy-1.26.2-cp311-cp311-win_amd64.whl (15.8 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 15.8/15.8 MB 7.9 MB/s eta 0:00:00
+Downloading requests-2.31.0-py3-none-any.whl (62 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 62.6/62.6 kB 239.0 kB/s eta 0:00:00
+Downloading typing_extensions-4.8.0-py3-none-any.whl (31 kB)
+Downloading certifi-2023.11.17-py3-none-any.whl (162 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 162.5/162.5 kB 890.6 kB/s eta 0:00:00
+Downloading charset_normalizer-3.3.2-cp311-cp311-win_amd64.whl (99 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 99.9/99.9 kB 358.5 kB/s eta 0:00:00
+Downloading idna-3.6-py3-none-any.whl (61 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 61.6/61.6 kB 252.8 kB/s eta 0:00:00
+Downloading MarkupSafe-2.1.3-cp311-cp311-win_amd64.whl (17 kB)
+Downloading urllib3-2.1.0-py3-none-any.whl (104 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 104.6/104.6 kB 109.7 kB/s eta 0:00:00
+Installing collected packages: mpmath, urllib3, typing-extensions, sympy, pillow, numpy, networkx, MarkupSafe, idna, fsspec, filelock, charset-normalizer, certifi, requests, jinja2, torch, torchvision, torchaudio
+Successfully installed MarkupSafe-2.1.3 certifi-2023.11.17 charset-normalizer-3.3.2 filelock-3.13.1 fsspec-2023.10.0 idna-3.6 jinja2-3.1.2 mpmath-1.3.0 networkx-3.2.1 numpy-1.26.2 pillow-10.1.0 requests-2.31.0 sympy-1.12 torch-2.1.1 torchaudio-2.1.1 torchvision-0.16.1 typing-extensions-4.8.0 urllib3-2.1.0
+(pyenv_3_11_3) Krishnakumar.Mayanna  signdetect  ♥ 16:30 
+(pyenv_3_11_3) Krishnakumar.Mayanna  signdetect  ♥ 16:30 
+(pyenv_3_11_3) Krishnakumar.Mayanna  signdetect  ♥ 16:30 
+(pyenv_3_11_3) Krishnakumar.Mayanna  signdetect  ♥ 16:30 
+(pyenv_3_11_3) Krishnakumar.Mayanna  signdetect  ♥ 16:30 
+(pyenv_3_11_3) Krishnakumar.Mayanna  signdetect  ♥ 16:30 
+(pyenv_3_11_3) Krishnakumar.Mayanna  signdetect  ♥ 16:30 
+(pyenv_3_11_3) Krishnakumar.Mayanna  signdetect  ♥ 16:30 
+(pyenv_3_11_3) Krishnakumar.Mayanna  signdetect  ♥ 16:30 
+(pyenv_3_11_3) Krishnakumar.Mayanna  signdetect  ♥ 16:30 
+(pyenv_3_11_3) Krishnakumar.Mayanna  signdetect  ♥ 16:30  pip3 install ultralytics
+Collecting ultralytics
+  Downloading ultralytics-8.0.221-py3-none-any.whl.metadata (32 kB)
+Collecting matplotlib>=3.3.0 (from ultralytics)
+  Downloading matplotlib-3.8.2-cp311-cp311-win_amd64.whl.metadata (5.9 kB)
+Requirement already satisfied: numpy>=1.22.2 in c:\prj\pyenv\pyenv_3_11_3\lib\site-packages (from ultralytics) (1.26.2)
+Collecting opencv-python>=4.6.0 (from ultralytics)
+  Downloading opencv_python-4.8.1.78-cp37-abi3-win_amd64.whl.metadata (20 kB)
+Requirement already satisfied: pillow>=7.1.2 in c:\prj\pyenv\pyenv_3_11_3\lib\site-packages (from ultralytics) (10.1.0)
+Collecting pyyaml>=5.3.1 (from ultralytics)
+  Downloading PyYAML-6.0.1-cp311-cp311-win_amd64.whl.metadata (2.1 kB)
+Requirement already satisfied: requests>=2.23.0 in c:\prj\pyenv\pyenv_3_11_3\lib\site-packages (from ultralytics) (2.31.0)
+Collecting scipy>=1.4.1 (from ultralytics)
+  Downloading scipy-1.11.4-cp311-cp311-win_amd64.whl.metadata (60 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 60.4/60.4 kB 214.4 kB/s eta 0:00:00
+Requirement already satisfied: torch>=1.8.0 in c:\prj\pyenv\pyenv_3_11_3\lib\site-packages (from ultralytics) (2.1.1)
+Requirement already satisfied: torchvision>=0.9.0 in c:\prj\pyenv\pyenv_3_11_3\lib\site-packages (from ultralytics) (0.16.1)
+Collecting tqdm>=4.64.0 (from ultralytics)
+  Using cached tqdm-4.66.1-py3-none-any.whl.metadata (57 kB)
+Collecting pandas>=1.1.4 (from ultralytics)
+  Downloading pandas-2.1.3-cp311-cp311-win_amd64.whl.metadata (18 kB)
+Collecting seaborn>=0.11.0 (from ultralytics)
+  Downloading seaborn-0.13.0-py3-none-any.whl.metadata (5.3 kB)
+Collecting psutil (from ultralytics)
+  Downloading psutil-5.9.6-cp37-abi3-win_amd64.whl.metadata (22 kB)
+Collecting py-cpuinfo (from ultralytics)
+  Downloading py_cpuinfo-9.0.0-py3-none-any.whl (22 kB)
+Collecting thop>=0.1.1 (from ultralytics)
+  Downloading thop-0.1.1.post2209072238-py3-none-any.whl (15 kB)
+Collecting contourpy>=1.0.1 (from matplotlib>=3.3.0->ultralytics)
+  Downloading contourpy-1.2.0-cp311-cp311-win_amd64.whl.metadata (5.8 kB)
+Collecting cycler>=0.10 (from matplotlib>=3.3.0->ultralytics)
+  Downloading cycler-0.12.1-py3-none-any.whl.metadata (3.8 kB)
+Collecting fonttools>=4.22.0 (from matplotlib>=3.3.0->ultralytics)
+  Downloading fonttools-4.45.1-cp311-cp311-win_amd64.whl.metadata (158 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 158.4/158.4 kB 378.8 kB/s eta 0:00:00
+Collecting kiwisolver>=1.3.1 (from matplotlib>=3.3.0->ultralytics)
+  Downloading kiwisolver-1.4.5-cp311-cp311-win_amd64.whl.metadata (6.5 kB)
+Collecting packaging>=20.0 (from matplotlib>=3.3.0->ultralytics)
+  Downloading packaging-23.2-py3-none-any.whl.metadata (3.2 kB)
+Collecting pyparsing>=2.3.1 (from matplotlib>=3.3.0->ultralytics)
+  Downloading pyparsing-3.1.1-py3-none-any.whl.metadata (5.1 kB)
+Collecting python-dateutil>=2.7 (from matplotlib>=3.3.0->ultralytics)
+  Downloading python_dateutil-2.8.2-py2.py3-none-any.whl (247 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 247.7/247.7 kB 799.5 kB/s eta 0:00:00
+Collecting pytz>=2020.1 (from pandas>=1.1.4->ultralytics)
+  Using cached pytz-2023.3.post1-py2.py3-none-any.whl.metadata (22 kB)
+Collecting tzdata>=2022.1 (from pandas>=1.1.4->ultralytics)
+  Downloading tzdata-2023.3-py2.py3-none-any.whl (341 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 341.8/341.8 kB 1.1 MB/s eta 0:00:00
+Requirement already satisfied: charset-normalizer<4,>=2 in c:\prj\pyenv\pyenv_3_11_3\lib\site-packages (from requests>=2.23.0->ultralytics) (3.3.2)
+Requirement already satisfied: idna<4,>=2.5 in c:\prj\pyenv\pyenv_3_11_3\lib\site-packages (from requests>=2.23.0->ultralytics) (3.6)
+Requirement already satisfied: urllib3<3,>=1.21.1 in c:\prj\pyenv\pyenv_3_11_3\lib\site-packages (from requests>=2.23.0->ultralytics) (2.1.0)
+Requirement already satisfied: certifi>=2017.4.17 in c:\prj\pyenv\pyenv_3_11_3\lib\site-packages (from requests>=2.23.0->ultralytics) (2023.11.17)
+Requirement already satisfied: filelock in c:\prj\pyenv\pyenv_3_11_3\lib\site-packages (from torch>=1.8.0->ultralytics) (3.13.1)
+Requirement already satisfied: typing-extensions in c:\prj\pyenv\pyenv_3_11_3\lib\site-packages (from torch>=1.8.0->ultralytics) (4.8.0)
+Requirement already satisfied: sympy in c:\prj\pyenv\pyenv_3_11_3\lib\site-packages (from torch>=1.8.0->ultralytics) (1.12)
+Requirement already satisfied: networkx in c:\prj\pyenv\pyenv_3_11_3\lib\site-packages (from torch>=1.8.0->ultralytics) (3.2.1)
+Requirement already satisfied: jinja2 in c:\prj\pyenv\pyenv_3_11_3\lib\site-packages (from torch>=1.8.0->ultralytics) (3.1.2)
+Requirement already satisfied: fsspec in c:\prj\pyenv\pyenv_3_11_3\lib\site-packages (from torch>=1.8.0->ultralytics) (2023.10.0)
+Collecting colorama (from tqdm>=4.64.0->ultralytics)
+  Downloading colorama-0.4.6-py2.py3-none-any.whl (25 kB)
+Collecting six>=1.5 (from python-dateutil>=2.7->matplotlib>=3.3.0->ultralytics)
+  Using cached six-1.16.0-py2.py3-none-any.whl (11 kB)
+Requirement already satisfied: MarkupSafe>=2.0 in c:\prj\pyenv\pyenv_3_11_3\lib\site-packages (from jinja2->torch>=1.8.0->ultralytics) (2.1.3)
+Requirement already satisfied: mpmath>=0.19 in c:\prj\pyenv\pyenv_3_11_3\lib\site-packages (from sympy->torch>=1.8.0->ultralytics) (1.3.0)
+Downloading ultralytics-8.0.221-py3-none-any.whl (646 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 646.6/646.6 kB 5.1 MB/s eta 0:00:00
+Downloading matplotlib-3.8.2-cp311-cp311-win_amd64.whl (7.6 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 7.6/7.6 MB 4.0 MB/s eta 0:00:00
+Downloading opencv_python-4.8.1.78-cp37-abi3-win_amd64.whl (38.1 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 38.1/38.1 MB 6.2 MB/s eta 0:00:00
+Downloading pandas-2.1.3-cp311-cp311-win_amd64.whl (10.6 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 10.6/10.6 MB 6.3 MB/s eta 0:00:00
+Downloading PyYAML-6.0.1-cp311-cp311-win_amd64.whl (144 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 144.7/144.7 kB 1.1 MB/s eta 0:00:00
+Downloading scipy-1.11.4-cp311-cp311-win_amd64.whl (44.1 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 44.1/44.1 MB 7.4 MB/s eta 0:00:00
+Downloading seaborn-0.13.0-py3-none-any.whl (294 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 294.6/294.6 kB 568.7 kB/s eta 0:00:00
+Downloading tqdm-4.66.1-py3-none-any.whl (78 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 78.3/78.3 kB 82.1 kB/s eta 0:00:00
+Downloading psutil-5.9.6-cp37-abi3-win_amd64.whl (252 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 252.3/252.3 kB 1.2 MB/s eta 0:00:00
+Downloading contourpy-1.2.0-cp311-cp311-win_amd64.whl (187 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 187.6/187.6 kB 1.3 MB/s eta 0:00:00
+Downloading cycler-0.12.1-py3-none-any.whl (8.3 kB)
+Downloading fonttools-4.45.1-cp311-cp311-win_amd64.whl (2.2 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2.2/2.2 MB 2.6 MB/s eta 0:00:00
+Downloading kiwisolver-1.4.5-cp311-cp311-win_amd64.whl (56 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 56.1/56.1 kB 367.0 kB/s eta 0:00:00
+Downloading packaging-23.2-py3-none-any.whl (53 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 53.0/53.0 kB 65.2 kB/s eta 0:00:00
+Downloading pyparsing-3.1.1-py3-none-any.whl (103 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 103.1/103.1 kB 175.0 kB/s eta 0:00:00
+Downloading pytz-2023.3.post1-py2.py3-none-any.whl (502 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 502.5/502.5 kB 2.1 MB/s eta 0:00:00
+Installing collected packages: pytz, py-cpuinfo, tzdata, six, scipy, pyyaml, pyparsing, psutil, packaging, opencv-python, kiwisolver, fonttools, cycler, contourpy, colorama, tqdm, python-dateutil, thop, pandas, matplotlib, seaborn, ultralytics
+Installing collected packages: pytz, py-cpuinfo, tzdata, six, scipy, pyyaml, pyparsing, psutil, packaging, opencv-python, kiwisolver, fonttools, cycler, contourpy, colorama, tqdm, python-dateututil, packaging, opencv-python, kiwisolver, fonttools, cycler, contourpy, colorama, tqdm, 
+python-dateutil, thop, pandas, matplotlib, seaborn, ultralytics
+Successfully installed colorama-0.4.6 contourpy-1.2.0 cycler-0.12.1 fonttools-4.45.1 kiwisolver-1.4.5 matplotlib-3.8.2 opencv-python-4.8.1.78 packaging-23.2 pandas-2.1.3 psutil-5.9.6 py-cpuinfo-9.0.0 pyparsing-3.1.1 python-dateutil-2.8.2 pytz-2023.3.post1 pyyaml-6.0.1 scipy-1.11.4 seaborn-0.13.0 six-1.16.0 thop-0.1.1.post2209072238 tqdm-4.66.1 tzdata-2023.3 
+ultralytics-8.0.221
+
+
+
+
